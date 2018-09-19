@@ -1,0 +1,56 @@
+package edu.uga.cs1302.vehicles;
+
+public class Automobile extends Vehicle {
+
+    private int horsepower;
+
+    public Automobile() {
+	super();
+	horsepower = 0;
+    }
+
+    public Automobile(String name, String manufacturer, int yrOfManufacture, int horsepower, int maxPassengers,
+		      int topSpeed) {
+	super(name, manufacturer, yrOfManufacture);
+	this.horsepower = horsepower;
+    }
+
+    public int getHorsepower() {
+	return horsepower;
+    }
+
+    public void setHorsepower(int horsepower) {
+	this.horsepower = horsepower;
+    }
+
+    // public void writeOutput() {
+    // super.writeOutput();
+    // System.out.println("Horsepower: " + horsepower);
+    // System.out.println("Max Passengers: " + maxPassengers);
+    // System.out.println("Top Speed: " + topSpeed);
+    //
+    // }
+    @Override
+	public int getMaxPassengers() {
+
+	return maxPassengers;
+    }
+
+    @Override
+	public void setMaxPassengers(int maxPassengers) {
+	this.maxPassengers = maxPassengers;
+
+    }
+
+    @Override
+	public int getTopSpeed() {
+
+	return topSpeed;
+    }
+
+    @Override
+	public void setTopSpeed(int topSpeed) {
+	this.topSpeed = topSpeed;
+
+    }
+}

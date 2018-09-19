@@ -1,0 +1,112 @@
+Project3:
+total 16
+drwxr-xr-x 3 ugrad 4096 Jul  1 13:56 classes
+drwxr-xr-x 3 ugrad 4096 Jul  1 14:14 html
+-rw-r--r-- 1 ugrad  868 Jul  1 18:33 README.txt
+-rw-r--r-- 1 ugrad    0 Jul  1 20:54 rec2667
+drwxr-xr-x 3 ugrad 4096 Jun 25 10:46 src
+
+Project3/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul  1 13:56 edu
+
+Project3/classes/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul  1 13:56 uga
+
+Project3/classes/edu/uga:
+total 4
+drwxr-xr-x 4 ugrad 4096 Jul  1 13:56 cs1302
+
+Project3/classes/edu/uga/cs1302:
+total 8
+drwxr-xr-x 2 ugrad 4096 Jul  1 13:56 test
+drwxr-xr-x 2 ugrad 4096 Jul  1 13:56 txtbuff
+
+Project3/classes/edu/uga/cs1302/test:
+total 4
+-rw-r--r-- 1 ugrad 2579 Jul  1 20:53 TextLineTester.class
+
+Project3/classes/edu/uga/cs1302/txtbuff:
+total 16
+-rw-r--r-- 1 ugrad  342 Jul  1 20:53 Editable.class
+-rw-r--r-- 1 ugrad 1712 Jul  1 20:53 EditableTextLine.class
+-rw-r--r-- 1 ugrad 1776 Jul  1 20:53 TextLine.class
+-rw-r--r-- 1 ugrad  662 Jul  1 20:53 TextLineIndexOutOfBoundsException.class
+
+Project3/html:
+total 72
+-rw-r--r-- 1 ugrad   669 Jul  1 20:54 allclasses-frame.html
+-rw-r--r-- 1 ugrad   649 Jul  1 20:54 allclasses-noframe.html
+-rw-r--r-- 1 ugrad  3547 Jul  1 20:54 constant-values.html
+-rw-r--r-- 1 ugrad  3497 Jul  1 20:54 deprecated-list.html
+drwxr-xr-x 3 ugrad  4096 Jul  1 14:14 edu
+-rw-r--r-- 1 ugrad  7932 Jul  1 20:54 help-doc.html
+-rw-r--r-- 1 ugrad  4815 Jul  1 20:54 index-all.html
+-rw-r--r-- 1 ugrad  2798 Jul  1 20:54 index.html
+-rw-r--r-- 1 ugrad  3955 Jul  1 20:54 overview-tree.html
+-rw-r--r-- 1 ugrad    20 Jul  1 20:54 package-list
+-rw-r--r-- 1 ugrad   827 Jul  1 20:54 script.js
+-rw-r--r-- 1 ugrad  4055 Jul  1 20:53 serialized-form.html
+-rw-r--r-- 1 ugrad 12842 Jul  1 14:14 stylesheet.css
+
+Project3/html/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul  1 14:14 uga
+
+Project3/html/edu/uga:
+total 4
+drwxr-xr-x 4 ugrad 4096 Jul  1 14:14 cs1302
+
+Project3/html/edu/uga/cs1302:
+total 8
+drwxr-xr-x 2 ugrad 4096 Jul  1 14:14 test
+drwxr-xr-x 2 ugrad 4096 Jul  1 14:14 txtbuff
+
+Project3/html/edu/uga/cs1302/test:
+total 28
+-rw-r--r-- 1 ugrad  820 Jul  1 20:54 package-frame.html
+-rw-r--r-- 1 ugrad 4505 Jul  1 20:54 package-summary.html
+-rw-r--r-- 1 ugrad 4051 Jul  1 20:54 package-tree.html
+-rw-r--r-- 1 ugrad 8512 Jul  1 20:54 TextLineTester.html
+
+Project3/html/edu/uga/cs1302/txtbuff:
+total 84
+-rw-r--r-- 1 ugrad 10971 Jul  1 20:53 Editable.html
+-rw-r--r-- 1 ugrad 17544 Jul  1 20:53 EditableTextLine.html
+-rw-r--r-- 1 ugrad  1381 Jul  1 20:53 package-frame.html
+-rw-r--r-- 1 ugrad  6349 Jul  1 20:53 package-summary.html
+-rw-r--r-- 1 ugrad  5224 Jul  1 20:53 package-tree.html
+-rw-r--r-- 1 ugrad 18353 Jul  1 20:53 TextLine.html
+-rw-r--r-- 1 ugrad 11054 Jul  1 20:53 TextLineIndexOutOfBoundsException.html
+
+Project3/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jun 25 10:46 edu
+
+Project3/src/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jun 25 10:46 uga
+
+Project3/src/edu/uga:
+total 4
+drwxr-xr-x 4 ugrad 4096 Jun 25 10:53 cs1302
+
+Project3/src/edu/uga/cs1302:
+total 8
+drwxr-xr-x 2 ugrad 4096 Jul  1 20:46 test
+drwxr-xr-x 2 ugrad 4096 Jul  1 20:52 txtbuff
+
+Project3/src/edu/uga/cs1302/test:
+total 8
+-rw-r--r-- 1 ugrad 2720 Jul  1 20:46 TextLineTester.java
+-rw-r--r-- 1 ugrad 2679 Jul  1 13:54 TextLineTester.java~
+
+Project3/src/edu/uga/cs1302/txtbuff:
+total 32
+-rw-r--r-- 1 ugrad 1742 Jul  1 13:43 Editable.java
+-rw-r--r-- 1 ugrad 4440 Jul  1 20:36 EditableTextLine.java
+-rw-r--r-- 1 ugrad 1515 Jul  1 18:18 TextLineIndexOutOfBoundsException.java
+-rw-r--r-- 1 ugrad 4749 Jul  1 20:52 TextLine.java
+-rw-r--r-- 1 ugrad 4635 Jul  1 20:43 TextLine.java~
+/home/ugrads/kasper/cs1302/Project3:/home/work/cs1302a

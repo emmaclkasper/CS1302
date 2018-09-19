@@ -1,0 +1,116 @@
+Project5:
+total 24
+drwxr-xr-x 3 ugrad 4096 Jul 15 16:08 classes
+drwxr-xr-x 3 ugrad 4096 Jul 15 16:09 html
+-rw-r--r-- 1 ugrad  472 Jul 16 21:34 README.txt
+-rw-r--r-- 1 ugrad 4096 Jul 16 21:38 rec10142
+-rw-r--r-- 1 ugrad    0 Jul 16 21:48 rec13051
+drwxr-xr-x 2 ugrad 4096 Jul 16 09:16 sample_music
+drwxr-xr-x 3 ugrad 4096 Jul 16 10:47 src
+
+Project5/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 15 16:08 edu
+
+Project5/classes/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 15 16:08 uga
+
+Project5/classes/edu/uga:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 15 16:08 cs1302
+
+Project5/classes/edu/uga/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jul 16 09:53 mp3files
+
+Project5/classes/edu/uga/cs1302/mp3files:
+total 36
+-rw-r--r-- 1 ugrad 3436 Jul 16 21:47 MP3File.class
+-rw-r--r-- 1 ugrad  223 Jul 16 21:47 MP3Player$1.class
+-rw-r--r-- 1 ugrad 1679 Jul 16 21:47 MP3Player.class
+-rw-r--r-- 1 ugrad 1351 Jul 16 21:47 MP3Player$MP3Controller.class
+-rw-r--r-- 1 ugrad 1643 Jul 16 21:47 MP3Player$MP3Thread.class
+-rw-r--r-- 1 ugrad 3277 Jul 16 21:47 MyMP3Files.class
+-rw-r--r-- 1 ugrad 2857 Jul 16 21:47 SimpleArrayList.class
+-rw-r--r-- 1 ugrad 2308 Jul 16 21:47 SimpleArrayList$SimpleArrayListIterator.class
+-rw-r--r-- 1 ugrad 2584 Jul 16 21:47 SimpleArrayListTester.class
+
+Project5/html:
+total 92
+-rw-r--r-- 1 ugrad  1233 Jul 15 16:14 allclasses-frame.html
+-rw-r--r-- 1 ugrad  1133 Jul 15 16:14 allclasses-noframe.html
+-rw-r--r-- 1 ugrad  4743 Jul 15 16:14 constant-values.html
+-rw-r--r-- 1 ugrad  3505 Jul 15 16:14 deprecated-list.html
+drwxr-xr-x 3 ugrad  4096 Jul 15 16:09 edu
+-rw-r--r-- 1 ugrad  7940 Jul 15 16:14 help-doc.html
+-rw-r--r-- 1 ugrad 23590 Jul 15 16:14 index-all.html
+-rw-r--r-- 1 ugrad  2806 Jul 15 16:14 index.html
+-rw-r--r-- 1 ugrad  4756 Jul 15 16:14 overview-tree.html
+-rw-r--r-- 1 ugrad    24 Jul 15 16:14 package-list
+-rw-r--r-- 1 ugrad   827 Jul 15 16:14 script.js
+-rw-r--r-- 1 ugrad 12842 Jul 15 16:09 stylesheet.css
+
+Project5/html/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 15 16:09 uga
+
+Project5/html/edu/uga:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 15 16:09 cs1302
+
+Project5/html/edu/uga/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jul 15 16:09 mp3files
+
+Project5/html/edu/uga/cs1302/mp3files:
+total 100
+-rw-r--r-- 1 ugrad 19977 Jul 15 16:14 MP3File.html
+-rw-r--r-- 1 ugrad  9814 Jul 15 16:14 MP3Player.html
+-rw-r--r-- 1 ugrad  9775 Jul 15 16:14 MyMP3Files.html
+-rw-r--r-- 1 ugrad  1296 Jul 15 16:14 package-frame.html
+-rw-r--r-- 1 ugrad  5591 Jul 15 16:14 package-summary.html
+-rw-r--r-- 1 ugrad  4912 Jul 15 16:14 package-tree.html
+-rw-r--r-- 1 ugrad 19034 Jul 15 16:14 SimpleArrayList.html
+-rw-r--r-- 1 ugrad 14843 Jul 15 16:14 SimpleArrayListTester.html
+
+Project5/sample_music:
+total 51408
+-rw-r--r-- 1 ugrad  8582256 Jul 16 09:16 beastieboys-make-some-noise.mp3
+-rw-r--r-- 1 ugrad  6192171 Jul 16 09:16 CheapUmbrellas.mp3
+-rw-r--r-- 1 ugrad  4329668 Jul 16 09:16 Fragile_Meadow.mp3
+-rw-r--r-- 1 ugrad  3218620 Jul 16 09:16 girl-in-a-coma-smart.mp3
+-rw-r--r-- 1 ugrad 10088318 Jul 16 09:16 Heirloom.mp3
+-rw-r--r-- 1 ugrad  6159092 Jul 16 09:16 terraincognita.mp3
+-rw-r--r-- 1 ugrad  3545841 Jul 16 09:16 The_Humms_Horror_Films.mp3
+-rw-r--r-- 1 ugrad  2837423 Jul 16 09:16 The_Humms_Hummwell.mp3
+-rw-r--r-- 1 ugrad  2909730 Jul 16 09:16 The_Humms_Smithway.mp3
+-rw-r--r-- 1 ugrad  4763196 Jul 16 09:16 Venice.mp3
+
+Project5/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul  9 09:56 edu
+
+Project5/src/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul  9 09:56 uga
+
+Project5/src/edu/uga:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul  9 09:56 cs1302
+
+Project5/src/edu/uga/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jul 16 21:47 mp3files
+
+Project5/src/edu/uga/cs1302/mp3files:
+total 64
+-rw-r--r-- 1 ugrad 4721 Jul 16 21:12 MP3File.java
+-rw-r--r-- 1 ugrad 4737 Jul 16 21:09 MP3File.java~
+-rw-r--r-- 1 ugrad 2368 Jul 15 16:05 MP3Player.java
+-rw-r--r-- 1 ugrad 4675 Jul 16 21:47 MyMP3Files.java
+-rw-r--r-- 1 ugrad 4679 Jul 16 21:44 MyMP3Files.java~
+-rw-r--r-- 1 ugrad 9766 Jul 15 16:13 SimpleArrayList.java
+-rw-r--r-- 1 ugrad 9674 Jul 15 16:05 SimpleArrayList.java~
+-rw-r--r-- 1 ugrad 3297 Jul 15 16:05 SimpleArrayListTester.java
+/home/ugrads/kasper/cs1302/Project5:/home/work/cs1302a

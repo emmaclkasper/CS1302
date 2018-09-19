@@ -1,0 +1,90 @@
+package edu.uga.cs1302.vehicles;
+
+public abstract class Vehicle implements Transporter {
+
+    protected int maxPassengers;
+    protected int topSpeed;
+
+    private String name;
+    private String manufacturer;
+    private int yrOfManufacture;
+    protected static int instanceCount = 0;
+
+    public Vehicle() {
+    }
+
+    public Vehicle(String name, String manufacturer, int yrOfManufacture) {
+
+	instanceCount++;
+	this.name = name;
+	this.manufacturer = manufacturer;
+	this.yrOfManufacture = yrOfManufacture;
+
+    }
+
+    public static int getInstanceCount() {
+	return instanceCount;
+    }
+
+    public void setInstanceCount(int instanceCount) {
+	instanceCount++;
+
+    }
+
+    public String getName() {
+	return name;
+    }
+
+    public void setName(String name) {
+	this.name = name;
+    }
+
+    public String getManufacturer() {
+	return manufacturer;
+    }
+
+    public void setManufacturer(String manufacturer) {
+	this.manufacturer = manufacturer;
+    }
+
+    public int getYrOfManufacture() {
+	return yrOfManufacture;
+    }
+
+    public void setYrOfManufacture(int yrOfManufacture) {
+	this.yrOfManufacture = yrOfManufacture;
+    }
+
+    // public void writeOutput() {
+    // System.out.println("Type: " + this.getClass().getName());
+    // System.out.println("Name: " + name);
+    // System.out.println("Manufacturer: " + manufacturer);
+    // System.out.println("Manufacture Year: " + yrOfManufacture);
+    //
+    // }
+
+    @Override
+	public int getMaxPassengers() {
+
+	return maxPassengers;
+    }
+
+    @Override
+	public void setMaxPassengers(int maxPassengers) {
+	this.maxPassengers = maxPassengers;
+
+    }
+
+    @Override
+	public int getTopSpeed() {
+
+	return topSpeed;
+    }
+
+    @Override
+	public void setTopSpeed(int topSpeed) {
+	this.topSpeed = topSpeed;
+
+    }
+
+}

@@ -1,0 +1,115 @@
+Project6:
+total 20
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:23 classes
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:39 html
+-rwxr-xr-x 1 ugrad  317 Jul 27 14:26 README.txt
+-rw-r--r-- 1 ugrad    0 Jul 27 18:55 rec25335
+drwxr-xr-x 2 ugrad 4096 Jul 27 14:29 sample_music
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:40 src
+
+Project6/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:23 edu
+
+Project6/classes/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:23 uga
+
+Project6/classes/edu/uga:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:23 cs1302
+
+Project6/classes/edu/uga/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jul 27 14:23 mytunes
+
+Project6/classes/edu/uga/cs1302/mytunes:
+total 44
+-rw-r--r-- 1 ugrad 2510 Jul 27 14:42 MP3Collection.class
+-rw-r--r-- 1 ugrad 3648 Jul 27 14:42 MP3File.class
+-rw-r--r-- 1 ugrad  855 Jul 27 14:42 MP3Player.class
+-rw-r--r-- 1 ugrad 1404 Jul 27 14:42 MP3Player$MP3Thread.class
+-rw-r--r-- 1 ugrad  606 Jul 27 14:42 MyTunes$1.class
+-rw-r--r-- 1 ugrad  817 Jul 27 14:42 MyTunes$2.class
+-rw-r--r-- 1 ugrad 1330 Jul 27 14:42 MyTunes$CancelButtonListener.class
+-rw-r--r-- 1 ugrad 3899 Jul 27 14:42 MyTunes.class
+-rw-r--r-- 1 ugrad 1136 Jul 27 14:42 MyTunes$PlayButtonListener.class
+-rw-r--r-- 1 ugrad  898 Jul 27 14:42 MyTunes$StopButtonListener.class
+-rw-r--r-- 1 ugrad 1258 Jul 27 14:42 MyTunes$TextFieldListener.class
+
+Project6/html:
+total 88
+-rw-r--r-- 1 ugrad  1058 Jul 27 14:41 allclasses-frame.html
+-rw-r--r-- 1 ugrad   978 Jul 27 14:41 allclasses-noframe.html
+-rw-r--r-- 1 ugrad  3553 Jul 27 14:41 constant-values.html
+-rw-r--r-- 1 ugrad  3503 Jul 27 14:41 deprecated-list.html
+drwxr-xr-x 3 ugrad  4096 Jul 27 14:39 edu
+-rw-r--r-- 1 ugrad  7938 Jul 27 14:41 help-doc.html
+-rw-r--r-- 1 ugrad 15490 Jul 27 14:41 index-all.html
+-rw-r--r-- 1 ugrad  2804 Jul 27 14:41 index.html
+-rw-r--r-- 1 ugrad  5047 Jul 27 14:41 overview-tree.html
+-rw-r--r-- 1 ugrad    23 Jul 27 14:41 package-list
+-rw-r--r-- 1 ugrad   827 Jul 27 14:41 script.js
+-rw-r--r-- 1 ugrad  4865 Jul 27 14:41 serialized-form.html
+-rw-r--r-- 1 ugrad 12842 Jul 27 14:39 stylesheet.css
+
+Project6/html/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:39 uga
+
+Project6/html/edu/uga:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:39 cs1302
+
+Project6/html/edu/uga/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jul 27 14:39 mytunes
+
+Project6/html/edu/uga/cs1302/mytunes:
+total 92
+-rw-r--r-- 1 ugrad 12678 Jul 27 14:41 MP3Collection.html
+-rw-r--r-- 1 ugrad 20127 Jul 27 14:41 MP3File.html
+-rw-r--r-- 1 ugrad  9765 Jul 27 14:41 MP3Player.html
+-rw-r--r-- 1 ugrad 20629 Jul 27 14:41 MyTunes.html
+-rw-r--r-- 1 ugrad  1146 Jul 27 14:41 package-frame.html
+-rw-r--r-- 1 ugrad  5317 Jul 27 14:41 package-summary.html
+-rw-r--r-- 1 ugrad  5188 Jul 27 14:41 package-tree.html
+
+Project6/sample_music:
+total 51408
+-rw-r--r-- 1 ugrad  8582256 Jul 27 14:29 beastieboys-make-some-noise.mp3
+-rw-r--r-- 1 ugrad  6192171 Jul 27 14:29 CheapUmbrellas.mp3
+-rw-r--r-- 1 ugrad  4329668 Jul 27 14:29 Fragile_Meadow.mp3
+-rw-r--r-- 1 ugrad  3218620 Jul 27 14:29 girl-in-a-coma-smart.mp3
+-rw-r--r-- 1 ugrad 10088318 Jul 27 14:29 Heirloom.mp3
+-rw-r--r-- 1 ugrad  6159092 Jul 27 14:29 terraincognita.mp3
+-rw-r--r-- 1 ugrad  3545841 Jul 27 14:29 The_Humms_Horror_Films.mp3
+-rw-r--r-- 1 ugrad  2837423 Jul 27 14:29 The_Humms_Hummwell.mp3
+-rw-r--r-- 1 ugrad  2909730 Jul 27 14:29 The_Humms_Smithway.mp3
+-rw-r--r-- 1 ugrad  4763196 Jul 27 14:29 Venice.mp3
+
+Project6/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:40 edu
+
+Project6/src/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:40 uga
+
+Project6/src/edu/uga:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul 27 14:40 cs1302
+
+Project6/src/edu/uga/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jul 27 14:41 mytunes
+
+Project6/src/edu/uga/cs1302/mytunes:
+total 40
+-rw-r--r-- 1 ugrad 3004 Jul 27 14:26 MP3Collection.java
+-rwxr-xr-x 1 ugrad 5573 Jul 27 14:26 MP3File.java
+-rwxr-xr-x 1 ugrad 5573 Jul 27 14:26 MP3File.java~
+-rwxr-xr-x 1 ugrad 1754 Jul 27 14:26 MP3Player.java
+-rw-r--r-- 1 ugrad 6396 Jul 27 14:41 MyTunes.java
+-rw-r--r-- 1 ugrad 6437 Jul 27 14:26 MyTunes.java~
+/home/ugrads/kasper/cs1302/Project6:/home/work/cs1302a

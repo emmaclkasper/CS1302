@@ -1,0 +1,85 @@
+Project2:
+total 12
+drwxr-xr-x 3 ugrad 4096 Jun 21 14:31 classes
+-rw-r--r-- 1 ugrad  561 Jun 23 22:05 README.txt
+-rw-r--r-- 1 ugrad    0 Jun 23 22:05 rec8275
+drwxr-xr-x 3 ugrad 4096 Jun 21 14:19 src
+
+Project2/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jun 21 14:31 edu
+
+Project2/classes/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jun 21 14:31 uga
+
+Project2/classes/edu/uga:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jun 21 14:31 cs1302
+
+Project2/classes/edu/uga/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jun 21 14:42 vehicles
+
+Project2/classes/edu/uga/cs1302/vehicles:
+total 44
+-rw-r--r-- 1 ugrad 1269 Jun 22 21:55 Airplane.class
+-rw-r--r-- 1 ugrad  907 Jun 22 21:55 Automobile.class
+-rw-r--r-- 1 ugrad  178 Jun 22 21:55 Floatable.class
+-rw-r--r-- 1 ugrad  226 Jun 22 21:55 Flyable.class
+-rw-r--r-- 1 ugrad 1695 Jun 22 21:55 FP.class
+-rw-r--r-- 1 ugrad 1174 Jun 22 21:55 Ship.class
+-rw-r--r-- 1 ugrad  238 Jun 22 21:55 Transporter.class
+-rw-r--r-- 1 ugrad 1509 Jun 22 21:55 UFO.class
+-rw-r--r-- 1 ugrad 1463 Jun 22 21:55 Vehicle.class
+-rw-r--r-- 1 ugrad 7345 Jun 22 21:55 VehicleDriver.class
+
+Project2/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jun 21 14:19 edu
+
+Project2/src/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jun 21 14:19 uga
+
+Project2/src/edu/uga:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jun 21 14:19 cs1302
+
+Project2/src/edu/uga/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jun 21 21:27 vehicles
+
+Project2/src/edu/uga/cs1302/vehicles:
+total 140
+-rw-r--r-- 1 ugrad  1213 Jun 21 15:06 Airplane.class
+-rw-r--r-- 1 ugrad  1853 Jun 21 21:06 Airplane.java
+-rw-r--r-- 1 ugrad  1679 Jun 21 14:20 Airplane.java~
+-rw-r--r-- 1 ugrad   871 Jun 21 15:06 Automobile.class
+-rw-r--r-- 1 ugrad  1363 Jun 21 21:07 Automobile.java
+-rw-r--r-- 1 ugrad  1129 Jun 21 14:22 Automobile.java~
+-rw-r--r-- 1 ugrad   178 Jun 21 15:06 Floatable.class
+-rw-r--r-- 1 ugrad   170 Jun 21 21:08 Floatable.java
+-rw-r--r-- 1 ugrad   124 Jun 21 14:23 Floatable.java~
+-rw-r--r-- 1 ugrad   226 Jun 21 15:06 Flyable.class
+-rw-r--r-- 1 ugrad   237 Jun 21 21:08 Flyable.java
+-rw-r--r-- 1 ugrad   194 Jun 21 14:23 Flyable.java~
+-rw-r--r-- 1 ugrad  1622 Jun 21 15:06 FP.class
+-rw-r--r-- 1 ugrad  2267 Jun 21 21:09 FP.java
+-rw-r--r-- 1 ugrad  2165 Jun 21 14:23 FP.java~
+-rw-r--r-- 1 ugrad  1128 Jun 21 15:06 Ship.class
+-rw-r--r-- 1 ugrad  1576 Jun 21 21:09 Ship.java
+-rw-r--r-- 1 ugrad  1371 Jun 21 14:24 Ship.java~
+-rw-r--r-- 1 ugrad   238 Jun 21 15:06 Transporter.class
+-rw-r--r-- 1 ugrad   247 Jun 21 21:10 Transporter.java
+-rw-r--r-- 1 ugrad   205 Jun 21 14:25 Transporter.java~
+-rw-r--r-- 1 ugrad  1443 Jun 21 15:06 UFO.class
+-rw-r--r-- 1 ugrad  2010 Jun 21 21:10 UFO.java
+-rw-r--r-- 1 ugrad  1751 Jun 21 14:25 UFO.java~
+-rw-r--r-- 1 ugrad  1463 Jun 21 15:06 Vehicle.class
+-rw-r--r-- 1 ugrad  6554 Jun 21 15:06 VehicleDriver.class
+-rw-r--r-- 1 ugrad 10889 Jun 21 21:27 VehicleDriver.java
+-rw-r--r-- 1 ugrad 10890 Jun 21 21:25 VehicleDriver.java~
+-rw-r--r-- 1 ugrad  1970 Jun 21 21:11 Vehicle.java
+-rw-r--r-- 1 ugrad  1761 Jun 21 14:25 Vehicle.java~
+/home/ugrads/kasper/cs1302/Project2:/home/work/cs1302a

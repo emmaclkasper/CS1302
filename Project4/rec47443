@@ -1,0 +1,41 @@
+Project4:
+total 48
+drwxr-xr-x 2 ugrad  4096 Jul  2 19:20 classes
+-rw-r--r-- 1 ugrad   550 Jul  6 15:02 README.txt
+-rw-r--r-- 1 ugrad     0 Jul  6 15:18 rec47443
+drwxr-xr-x 3 ugrad  4096 Jul  2 19:27 src
+-rw-r--r-- 1 ugrad 35286 Jul  6 15:18 TestPlan.pdf
+
+Project4/classes:
+total 0
+
+Project4/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul  2 19:27 edu
+
+Project4/src/edu:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jul  2 19:27 uga
+
+Project4/src/edu/uga:
+total 4
+drwxr-xr-x 4 ugrad 4096 Jul  2 19:27 cs1302
+
+Project4/src/edu/uga/cs1302:
+total 8
+drwxr-xr-x 2 ugrad 4096 Jul  6 15:03 test
+drwxr-xr-x 2 ugrad 4096 Jul  2 19:27 txtbuff
+
+Project4/src/edu/uga/cs1302/test:
+total 8
+-rw-r--r-- 1 ugrad 3182 Jul  6 15:03 EditableTextLineTest.java
+-rw-r--r-- 1 ugrad 3186 Jul  6 14:56 EditableTextLineTest.java~
+
+Project4/src/edu/uga/cs1302/txtbuff:
+total 32
+-rw-r--r-- 1 ugrad 1742 Jul  2 19:27 Editable.java
+-rw-r--r-- 1 ugrad 4440 Jul  2 19:27 EditableTextLine.java
+-rw-r--r-- 1 ugrad 1515 Jul  2 19:27 TextLineIndexOutOfBoundsException.java
+-rw-r--r-- 1 ugrad 4749 Jul  2 19:27 TextLine.java
+-rw-r--r-- 1 ugrad 4635 Jul  2 19:27 TextLine.java~
+/home/ugrads/kasper/cs1302/Project4:/home/work/cs1302a

@@ -1,0 +1,84 @@
+package edu.uga.cs1302.vehicles;
+
+public class Airplane extends Vehicle implements Flyable {
+
+    private int numEngines;
+    private int maxAltitude;
+    private int maxRange;
+
+    public Airplane() {
+	super();
+	numEngines = 0;
+    }
+
+    public Airplane(String name, String manufacturer, int yrOfManufacture, int numEngines, int maxAltitude,
+		    int maxRange, int maxPassengers, int topSpeed) {
+	super(name, manufacturer, yrOfManufacture);
+	this.numEngines = numEngines;
+    }
+
+    public int getNumEngines() {
+	return numEngines;
+    }
+
+    public void setNumEngines(int numEngines) {
+	this.numEngines = numEngines;
+    }
+
+    // public void writeOutput() {
+    // super.writeOutput();
+    // System.out.println("Number of Engines: " + numEngines);
+    // System.out.println("Max Altitude: " + maxAltitude);
+    // System.out.println("Max Range: " + maxRange);
+    // System.out.println("Max Passengers: " + maxPassengers);
+    // System.out.println("Top Speed: " + topSpeed);
+    //
+    // }
+
+    @Override
+	public int getMaxAltitude() {
+	return maxAltitude;
+    }
+
+    @Override
+	public void setMaxAltitude(int maxAltitude) {
+
+	this.maxAltitude = maxAltitude;
+    }
+
+    @Override
+	public int getMaxRange() {
+	return maxRange;
+    }
+
+    @Override
+	public void setMaxRange(int maxRange) {
+	this.maxRange = maxRange;
+
+    }
+
+    @Override
+	public int getMaxPassengers() {
+
+	return maxPassengers;
+    }
+
+    @Override
+	public void setMaxPassengers(int maxPassengers) {
+	this.maxPassengers = maxPassengers;
+
+    }
+
+    @Override
+	public int getTopSpeed() {
+
+	return topSpeed;
+    }
+
+    @Override
+	public void setTopSpeed(int topSpeed) {
+	this.topSpeed = topSpeed;
+
+    }
+
+}

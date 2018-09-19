@@ -1,0 +1,13 @@
+package edu.uga.cs1302.vehicles;
+
+public interface Transporter {
+
+    void setMaxPassengers(int maxPassengers);
+
+    int getMaxPassengers();
+
+    void setTopSpeed(int topSpeed);
+
+    int getTopSpeed();
+
+}
