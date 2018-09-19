@@ -1,0 +1,17 @@
+Project1:
+total 12
+drwxr-xr-x 2 ugrad 4096 Jun 13 11:04 classes
+-rw-r--r-- 1 ugrad  443 Jun 14 09:15 rec47067
+-rw-r--r-- 1 ugrad    0 Jun 14 09:18 rec47818
+drwxr-xr-x 2 ugrad 4096 Jun 14 09:17 src
+
+Project1/classes:
+total 4
+-rw-r--r-- 1 ugrad 656 Jun 13 20:49 User.class
+
+Project1/src:
+total 12
+-rw-r--r-- 1 ugrad 658 Jun 14 09:17 User.class
+-rw-r--r-- 1 ugrad 181 Jun 14 09:17 User.java
+-rw-r--r-- 1 ugrad 179 Jun 14 09:08 User.java~
+/home/ugrads/kasper/cs1302/Project1:/home/work/cs1302a
